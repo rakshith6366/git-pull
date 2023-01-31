@@ -1,1 +1,2 @@
-logout is fully developed
+
+logout is not developed
